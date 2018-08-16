@@ -17,9 +17,8 @@ The main application demonstrates:
 
 
 
-Technical paper reference.
-Shi-Feng Sun,Xingliang Yuan, Joseph Liu, Ron Steinfeld, Amin Sakzad,Viet Vo, Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption,
-in CCS'18.
+Reference
+[1] Shi-Feng Sun,Xingliang Yuan, Joseph Liu, Ron Steinfeld, Amin Sakzad,Viet Vo,Surya Nepal. Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption, in CCS'18.
               
 
 
