@@ -4,7 +4,9 @@ The application is developed by using Python 3.6.
 It requires Pycrypto 2.6.1 package.
 
 Data set files with format. inverted_index_#####.txt contain the file identifiers of the Subject keyword.
-sse_client.py demonstrates Client side
+
+sse_client.py demonstrates Client side.
+
 sse_server.py allows to search over the enrypted database.
 
 main.py is the main application file. It can be executed by command, python3 main.py.
