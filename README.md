@@ -17,7 +17,10 @@ The main application demonstrates:
   + Deletion with time measurement
   + Search over the server.
 
-
+Please contact us for technical issues at.
+  + Viet Vo viet.vo@monash.edu
+  + Xingliang Yuan xingliang.yuan@monash.edu
+  + Shifeng Sun shifeng.sun@monash.edu
 
 Reference
 
