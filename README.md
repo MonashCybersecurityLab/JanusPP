@@ -24,7 +24,7 @@ Please contact us for technical issues at.
 
 Reference
 
-[1] Shi-Feng Sun,Xingliang Yuan, Joseph Liu, Ron Steinfeld, Amin Sakzad,Viet Vo,Surya Nepal. Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption, in CCS'18.
+[1] Shi-Feng Sun, Xingliang Yuan, Joseph Liu, Ron Steinfeld, Amin Sakzad, Viet Vo, Surya Nepal. Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption, in CCS'18.
               
 
 
